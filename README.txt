@@ -8,10 +8,10 @@ API to recieve data, then uses D3.js to display the data in the form of
 a horizontal bar graph.
 
 jQuery:
-[jQuery](https://jquery.com/)
+https://jquery.com/
 
 D3.js:
-[D3.js](http://d3js.org/)
+http://d3js.org/
 
 Huffington Post API:
-[Huffington Post API](http://elections.huffingtonpost.com/pollster/api)
+http://elections.huffingtonpost.com/pollster/api
